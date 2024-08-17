@@ -13,7 +13,7 @@
     "jsx": "preserve",
     "incremental": true,
     "paths": {
-      "@/_*": ["./_*"]
+      "@/*": ["./*"]
     }
   },
   "include": ["next-env.d.ts", "**/*.ts", "**/*.tsx"],
